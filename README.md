@@ -25,7 +25,7 @@
 </div>
 
 
-<h1 align="center">Skills</h1>
+<h2 align="center">SKILLS</h2>
 <div align="center" id="skills">
   <img src="https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white" alt="GoLang"/>
   <img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
