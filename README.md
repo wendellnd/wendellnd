@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="/images/me.gif" width="250"/>
 </div>
-<h1 align="center">Hello, I'm Wendell Dourado (He/His) </h1>
+<h1 align="center">Hello, I'm Wendell Nascimento Dourado (He/His) </h1>
 
 
 <div align="center">
