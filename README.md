@@ -3,6 +3,15 @@
 </div>
 <h1 align="center">Hello, I'm Wendell Dourado (He/His) </h1>
 
+
+<div align="center">
+  <p>I’m Software Engineer aways searching for learning.</p>
+  <p>
+  I’ve been studying since 15 years old, with courses and by myself, actually working with GoLang, Serverless and AWS at Red Ventures company, inside the IQ’s startup sector.
+  </p>
+</div>
+
+
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/wendell-nascimento-dourado-0760a3202">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,15 +22,6 @@
   <a href="https://steamcommunity.com/id/WendellND/">
     <img src="https://img.shields.io/badge/Steam-296cd7?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
-</div>
-
-
-<div align="center">
-  <h1>About Me</h1>
-  <p>I’m Software Engineer aways searching for learning.</p>
-  <p>
-  I’ve been studying since 15 years old, with courses and by myself, actually working with GoLang, Serverless and AWS at Red Ventures company, inside the IQ’s startup sector.
-  </p>
 </div>
 
 
