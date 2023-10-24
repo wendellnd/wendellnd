@@ -27,17 +27,17 @@
 
 <h2 align="center">SKILLS</h2>
 <div align="center" id="skills">
-  <h3>Programming Languages</h3>
+  <br/>
   <img src="https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white" alt="GoLang"/>
   <img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
-  <h3>Infrastructure</h3>
+  <br/>
   <img src="https://img.shields.io/badge/AMAZON%20AWS-orange?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Serverless-red?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
-  <h3>CI/CD</h3>
+  <br/>
   <img src="https://img.shields.io/badge/CircleCI-gray?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
   <img src="https://img.shields.io/badge/github%20actions-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions"/>
-  <h3>Data</h3>
+  <br/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB"/>
   <img src="https://img.shields.io/badge/DynamoDB-blue?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
