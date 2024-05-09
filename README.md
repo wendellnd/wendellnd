@@ -1,8 +1,14 @@
 <div id="header" align="center">
   <img src="/images/me.gif" width="250"/>
 </div>
+
 <h1 align="center">Hello, I'm Wendell Nascimento Dourado (He/His) </h1>
 
+<div id="header" align="center">
+  <a href="https://github.com/egonelbre/gophers/tree/master?tab=readme-ov-file#gophers" target="_blank" title="Author: egonelbre">
+      <img src="/images/demo.gif"/>
+  </a>
+</div>
 
 <div align="center">
   <p>I’m Software Engineer aways searching for learning.</p>
