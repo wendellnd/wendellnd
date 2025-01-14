@@ -1,5 +1,4 @@
 <h1 align="center"> <img src="/images/gopher.gif" align="center" width="50"/> Hello, I'm Wendell Nascimento Dourado (He/His) </h1> 
-
 <div id="header" align="center">
   <a href="https://github.com/egonelbre/gophers/tree/master?tab=readme-ov-file#gophers" target="_blank" title="Author: egonelbre">
       <img src="/images/demo.gif"/>
@@ -7,9 +6,9 @@
 </div>
 
 <div align="center">
-  <p>I’m Software Engineer aways searching for learning.</p>
+  <h3 align="center">Software Engineer aways searching for learning</h3>
   <p>
-  I’ve been studying since 15 years old, with courses and by myself, actually working with GoLang, Serverless and AWS at Consumidor Positivo.
+  I’ve been studying since 15 years old, with courses and by myself, actually working with GoLang, Kubernetes, Serverless and AWS at Consumidor Positivo.
   </p>
 </div>
 
@@ -34,8 +33,9 @@
   <img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
   <br/>
-  <img src="https://img.shields.io/badge/AMAZON%20AWS-orange?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Serverless-red?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
+   <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <br/>
   <img src="https://img.shields.io/badge/CircleCI-gray?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
   <img src="https://img.shields.io/badge/github%20actions-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions"/>
