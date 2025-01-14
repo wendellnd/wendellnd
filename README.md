@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="/images/me.gif" width="250"/>
-</div>
-
 <h1 align="center"> <img src="/images/gopher.gif" align="center" width="50"/> Hello, I'm Wendell Nascimento Dourado (He/His) </h1> 
 
 <div id="header" align="center">
@@ -13,7 +9,7 @@
 <div align="center">
   <p>I’m Software Engineer aways searching for learning.</p>
   <p>
-  I’ve been studying since 15 years old, with courses and by myself, actually working with GoLang, Serverless and AWS at Red Ventures company, inside the IQ’s startup sector.
+  I’ve been studying since 15 years old, with courses and by myself, actually working with GoLang, Serverless and AWS at Consumidor Positivo.
   </p>
 </div>
 
