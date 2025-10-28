@@ -1,7 +1,7 @@
-<h1 align="center"> <img src="/images/gopher.gif" align="center" width="50"/> Hello, I'm Wendell Nascimento Dourado </h1> 
+<h1 align="center"> <img src="/images/gopher2.gif" align="center" width="50"/> Hello, I'm Wendell Nascimento Dourado </h1> 
 <div id="header" align="center">
   <a href="https://github.com/egonelbre/gophers/tree/master?tab=readme-ov-file#gophers" target="_blank" title="Author: egonelbre">
-      <img src="/images/demo.gif"/>
+      <img src="/images/demo2.gif"/>
   </a>
 </div>
 
